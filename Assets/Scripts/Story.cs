@@ -28,7 +28,7 @@ namespace Assets.Scripts
         [MenuItem("Assets/Story/Add Page", true)]
         private static bool AddCategoryVariantContextMenuValidation()
         {
-            return Selection.activeObject != null && Selection.activeObject.GetType() == typeof(Page);
+            return Selection.activeObject != null && Selection.activeObject.GetType() == typeof(Story);
         }
 
         [MenuItem("Assets/Story/Delete Page", false, 400)]

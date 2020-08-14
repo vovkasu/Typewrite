@@ -1,0 +1,289 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cee9349d42bb0684c81f5fbde1b0e1ff, type: 3}
+  m_Name: ThreeCat
+  m_EditorClassIdentifier: 
+  Pages:
+  - {fileID: 114982635736706984}
+  - {fileID: 114389210143258572}
+  - {fileID: 114492941452694250}
+  - {fileID: 114010881582112342}
+  - {fileID: 114931676436441518}
+  - {fileID: 114469604139100490}
+  - {fileID: 114221486502842960}
+  - {fileID: 114659146627674462}
+  - {fileID: 114765970041238024}
+  - {fileID: 114723948255310956}
+  - {fileID: 114504005827792824}
+  - {fileID: 114098006658079994}
+  - {fileID: 114272722237666292}
+  - {fileID: 114906719464488492}
+  - {fileID: 114276891812159768}
+--- !u!114 &114010881582112342
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5db96f7992907b44890a061faac9dc9e, type: 3}
+  m_Name: Page4
+  m_EditorClassIdentifier: 
+  Image: {fileID: 21300000, guid: 7b6f7063ef59eb346a968d54734a289b, type: 3}
+  Text: "\u041A\u043E\u0442\u044F\u0442\u0430 \u2014 \u0437\u0430 \u043D\u0435\u0439!
+    \u041C\u044B\u0448\u044C \u0443\u0431\u0435\u0436\u0430\u043B\u0430."
+  NarratorSoundName: TriKotenka/sut_tri_kotenka-04
+  Story: {fileID: 11400000}
+--- !u!114 &114098006658079994
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5db96f7992907b44890a061faac9dc9e, type: 3}
+  m_Name: Page12
+  m_EditorClassIdentifier: 
+  Image: {fileID: 21300000, guid: 5e4d00c3d4dd92c41a2997954852f463, type: 3}
+  Text: "\u0420\u044B\u0431\u0430 \u0443\u043F\u043B\u044B\u043B\u0430,"
+  NarratorSoundName: TriKotenka/sut_tri_kotenka-12
+  Story: {fileID: 11400000}
+--- !u!114 &114221486502842960
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5db96f7992907b44890a061faac9dc9e, type: 3}
+  m_Name: Page7
+  m_EditorClassIdentifier: 
+  Image: {fileID: 21300000, guid: f38bef27d5b26544cabb658531726cd9, type: 3}
+  Text: "\u041B\u044F\u0433\u0443\u0448\u043A\u0430 \u043F\u0440\u044B\u0433\u043D\u0443\u043B\u0430
+    \u0432 \u0441\u0442\u0430\u0440\u0443\u044E \u0441\u0430\u043C\u043E\u0432\u0430\u0440\u043D\u0443\u044E
+    \u0442\u0440\u0443\u0431\u0443."
+  NarratorSoundName: TriKotenka/sut_tri_kotenka-07
+  Story: {fileID: 11400000}
+--- !u!114 &114272722237666292
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5db96f7992907b44890a061faac9dc9e, type: 3}
+  m_Name: Page13
+  m_EditorClassIdentifier: 
+  Image: {fileID: 21300000, guid: 3432de008ae835941a033f67c0c0dd40, type: 3}
+  Text: "\u0430 \u0438\u0437 \u0432\u043E\u0434\u044B \u0432\u044B\u043D\u044B\u0440\u043D\u0443\u043B\u0438
+    \u0442\u0440\u0438 \u043C\u043E\u043A\u0440\u044B\u0445 \u043A\u043E\u0442\u0451\u043D\u043A\u0430."
+  NarratorSoundName: TriKotenka/sut_tri_kotenka-13
+  Story: {fileID: 11400000}
+--- !u!114 &114276891812159768
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5db96f7992907b44890a061faac9dc9e, type: 3}
+  m_Name: Page15
+  m_EditorClassIdentifier: 
+  Image: {fileID: 21300000, guid: d4b15751a15d46d4fa987cb8ebec2f41, type: 3}
+  Text: "\u041F\u043E \u0434\u043E\u0440\u043E\u0433\u0435 \u043E\u043D\u0438 \u043E\u0431\u0441\u043E\u0445\u043B\u0438
+    \u0438 \u0441\u0442\u0430\u043B\u0438 \u043A\u0430\u043A \u0431\u044B\u043B\u0438:
+    \u0447\u0451\u0440\u043D\u044B\u0439, \u0441\u0435\u0440\u044B\u0439 \u0438 \u0431\u0435\u043B\u044B\u0439."
+  NarratorSoundName: TriKotenka/sut_tri_kotenka-15
+  Story: {fileID: 11400000}
+--- !u!114 &114389210143258572
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5db96f7992907b44890a061faac9dc9e, type: 3}
+  m_Name: Page2
+  m_EditorClassIdentifier: 
+  Image: {fileID: 21300000, guid: 3745919ca1ed7d742becc1607109f781, type: 3}
+  Text: "\u0443\u0432\u0438\u0434\u0435\u043B\u0438 \u043C\u044B\u0448\u044C \u0438
+    \u0431\u0440\u043E\u0441\u0438\u043B\u0438\u0441\u044C \u0437\u0430 \u043D\u0435\u0439!"
+  NarratorSoundName: TriKotenka/sut_tri_kotenka-02
+  Story: {fileID: 11400000}
+--- !u!114 &114469604139100490
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5db96f7992907b44890a061faac9dc9e, type: 3}
+  m_Name: Page6
+  m_EditorClassIdentifier: 
+  Image: {fileID: 21300000, guid: 35c7f825ad957b6488fda62a7c33c30c, type: 3}
+  Text: "\u0422\u0440\u0438 \u0431\u0435\u043B\u044B\u0445 \u043A\u043E\u0442\u0451\u043D\u043A\u0430
+    \u0443\u0432\u0438\u0434\u0435\u043B\u0438 \u043D\u0430 \u0434\u0432\u043E\u0440\u0435
+    \u043B\u044F\u0433\u0443\u0448\u043A\u0443 \u0438 \u0431\u0440\u043E\u0441\u0438\u043B\u0438\u0441\u044C
+    \u0437\u0430 \u043D\u0435\u0439!"
+  NarratorSoundName: TriKotenka/sut_tri_kotenka-06
+  Story: {fileID: 11400000}
+--- !u!114 &114492941452694250
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5db96f7992907b44890a061faac9dc9e, type: 3}
+  m_Name: Page3
+  m_EditorClassIdentifier: 
+  Image: {fileID: 21300000, guid: fec633c78d7651b45a46289765c84d03, type: 3}
+  Text: "\u041C\u044B\u0448\u044C \u043F\u0440\u044B\u0433\u043D\u0443\u043B\u0430
+    \u0432 \u0431\u0430\u043D\u043A\u0443 \u0441 \u043C\u0443\u043A\u043E\u0439."
+  NarratorSoundName: TriKotenka/sut_tri_kotenka-03
+  Story: {fileID: 11400000}
+--- !u!114 &114504005827792824
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5db96f7992907b44890a061faac9dc9e, type: 3}
+  m_Name: Page11
+  m_EditorClassIdentifier: 
+  Image: {fileID: 21300000, guid: 29686ca2869f9844da444c67eeaa745e, type: 3}
+  Text: "\u0438 \u0431\u0440\u043E\u0441\u0438\u043B\u0438\u0441\u044C \u0437\u0430
+    \u043D\u0435\u0439!"
+  NarratorSoundName: TriKotenka/sut_tri_kotenka-11
+  Story: {fileID: 11400000}
+--- !u!114 &114659146627674462
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5db96f7992907b44890a061faac9dc9e, type: 3}
+  m_Name: Page8
+  m_EditorClassIdentifier: 
+  Image: {fileID: 21300000, guid: 024f285df9af7c344a11f7a704cdca82, type: 3}
+  Text: "\u041A\u043E\u0442\u044F\u0442\u0430 \u2014 \u0437\u0430 \u043D\u0435\u0439!"
+  NarratorSoundName: TriKotenka/sut_tri_kotenka-08
+  Story: {fileID: 11400000}
+--- !u!114 &114723948255310956
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5db96f7992907b44890a061faac9dc9e, type: 3}
+  m_Name: Page10
+  m_EditorClassIdentifier: 
+  Image: {fileID: 21300000, guid: 9a22eac1b882f1c488cb2ca9d3a26c9c, type: 3}
+  Text: "\u0422\u0440\u0438 \u0447\u0451\u0440\u043D\u044B\u0445 \u043A\u043E\u0442\u0451\u043D\u043A\u0430
+    \u0443\u0432\u0438\u0434\u0435\u043B\u0438 \u0432 \u043F\u0440\u0443\u0434\u0443
+    \u0440\u044B\u0431\u0443\u2026"
+  NarratorSoundName: TriKotenka/sut_tri_kotenka-10
+  Story: {fileID: 11400000}
+--- !u!114 &114765970041238024
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5db96f7992907b44890a061faac9dc9e, type: 3}
+  m_Name: Page9
+  m_EditorClassIdentifier: 
+  Image: {fileID: 21300000, guid: 022cdf1407cd9204eb0fec9f0f5859d8, type: 3}
+  Text: "\u041B\u044F\u0433\u0443\u0448\u043A\u0430 \u0443\u0441\u043A\u0430\u043A\u0430\u043B\u0430,
+    \u0430 \u0438\u0437 \u0442\u0440\u0443\u0431\u044B \u0432\u044B\u043B\u0435\u0437\u043B\u0438
+    \u0442\u0440\u0438 \u0447\u0451\u0440\u043D\u044B\u0445 \u043A\u043E\u0442\u0451\u043D\u043A\u0430."
+  NarratorSoundName: TriKotenka/sut_tri_kotenka-09
+  Story: {fileID: 11400000}
+--- !u!114 &114906719464488492
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5db96f7992907b44890a061faac9dc9e, type: 3}
+  m_Name: Page14
+  m_EditorClassIdentifier: 
+  Image: {fileID: 21300000, guid: c44627bcb10e74846b4e713f883ef6e3, type: 3}
+  Text: "\u0422\u0440\u0438 \u043C\u043E\u043A\u0440\u044B\u0445 \u043A\u043E\u0442\u0451\u043D\u043A\u0430
+    \u043F\u043E\u0448\u043B\u0438 \u0434\u043E\u043C\u043E\u0439."
+  NarratorSoundName: TriKotenka/sut_tri_kotenka-14
+  Story: {fileID: 11400000}
+--- !u!114 &114931676436441518
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5db96f7992907b44890a061faac9dc9e, type: 3}
+  m_Name: Page5
+  m_EditorClassIdentifier: 
+  Image: {fileID: 21300000, guid: bdc593cdfa02a2a459f0bd913dbc57a9, type: 3}
+  Text: "\u0410 \u0438\u0437 \u0431\u0430\u043D\u043A\u0438 \u0432\u044B\u043B\u0435\u0437\u043B\u0438
+    \u0442\u0440\u0438 \u0431\u0435\u043B\u044B\u0445 \u043A\u043E\u0442\u0451\u043D\u043A\u0430."
+  NarratorSoundName: TriKotenka/sut_tri_kotenka-05
+  Story: {fileID: 11400000}
+--- !u!114 &114982635736706984
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5db96f7992907b44890a061faac9dc9e, type: 3}
+  m_Name: Page1
+  m_EditorClassIdentifier: 
+  Image: {fileID: 21300000, guid: f9bfdbc8ac36b0a49b8ae6e56025a598, type: 3}
+  Text: "\u0422\u0440\u0438 \u043A\u043E\u0442\u0451\u043D\u043A\u0430 \u2014 \u0447\u0451\u0440\u043D\u044B\u0439,
+    \u0441\u0435\u0440\u044B\u0439 \u0438 \u0431\u0435\u043B\u044B\u0439"
+  NarratorSoundName: TriKotenka/sut_tri_kotenka-01
+  Story: {fileID: 11400000}
