@@ -3,11 +3,12 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using CategoryQuestions.Assets.Scripts.Core.Application;
+using CategoryQuestions.Assets.Scripts.Core.Pages;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using Object = UnityEngine.Object;
 
-namespace CategoryQuestions.Assets.Scripts.Core.Pages
+namespace Assets.Scripts.Core.Pages
 {
     public class NavigationController : NavigationControllerBase
     {
@@ -285,7 +286,7 @@ namespace CategoryQuestions.Assets.Scripts.Core.Pages
 
         protected virtual string GetSceneName(PageBaseLink pageBaseLink)
         {
-            return ((Scripts.Application) EntryPointBase.Current).PageLinkList.First(_ => _.SceneGuid == pageBaseLink.SceneGuid).SceneName;
+            return ((global::Assets.Scripts.Application) EntryPointBase.Current).PageLinkList.First(_ => _.SceneGuid == pageBaseLink.SceneGuid).SceneName;
         }
     }
 }

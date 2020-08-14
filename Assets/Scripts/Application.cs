@@ -1,9 +1,10 @@
 ﻿using System.Linq;
+using Assets.Scripts.Core.Pages;
 using CategoryQuestions.Assets.Scripts.Core.Application;
 using CategoryQuestions.Assets.Scripts.Core.Pages;
 using UnityEngine;
 
-namespace CategoryQuestions.Assets.Scripts
+namespace Assets.Scripts
 {
     public class Application : EntryPointBase
     {
